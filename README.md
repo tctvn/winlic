@@ -7,6 +7,9 @@
 - Remove or reset the current Windows license.
 - KMS activation support (install keys, set KMS servers, and activate).
 - Edition conversion (easily upgrade your Windows edition, prepare for a downgrade via Registry changes, or auto-detect BIOS key to restore edition).
+- Comprehensive License Check: Deep scanning for crack traces (KMS, HWID, KMS38) with a visual progressive UI.
+- Auto-Fix option to aggressively clean up illegal activations and restore genuine BIOS keys.
+- Fast, logically grouped, single-key menu interface (no `Enter` required).
 - Automatically requests Administrator privileges.
 
 ## Quick Installation Guide
